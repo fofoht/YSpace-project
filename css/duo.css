@@ -1,0 +1,39 @@
+body{
+    background:url(https://pbs.twimg.com/media/Fc0K7GSacAAVRaf?format=jpg&name=4096x4096);
+    background-position: center;
+    background-size: auto;
+}
+
+.card{
+    margin: 0 auto 0 auto;
+}
+.container-nav a{
+    color:#A2B5BB;
+    font-size: 25px;
+    font-family: 'Merriweather', serif;
+    
+    
+}
+.container-nav a:hover{
+    color:#F5EDDC;
+
+}
+.duos-unit{
+text-align: center;
+margin-top: 60px;
+margin-bottom:70px;
+font-family: 'Merriweather', serif;
+
+
+}
+.top-container{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+header{
+ float: left;
+ margin-left: 40px;
+}
+h1{
+    font-family: 'Pirata One', cursive;
+}

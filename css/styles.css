@@ -1,0 +1,95 @@
+body{
+    background-image: url(../images/background-home-desktop.jpg);
+    background-position: center;
+background-size: cover;
+}
+h1{
+margin-left: 40px ;
+padding-left:40px;
+}
+h2{
+    color: #F2F2F2;
+    font-family: 'Merriweather', serif;
+}
+header{
+    text-align: center;
+    color:#FEF5AC;
+    float: left;
+    font-family: 'Pirata One', cursive;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+p{
+    color:#F2F2F2;
+    font-family: 'Merriweather', serif;
+}
+
+.container-nav a{
+    color:#FEF5AC;
+    font-size: 25px;
+    font-family: 'Merriweather', serif;
+    
+    
+}
+.container-nav a:hover{
+    color:#8BBCCC;
+}
+
+.card{
+    text-align: center;
+   margin:0 auto 0 auto;  
+   
+}
+.card p{
+    color:#F2F2F2;
+    font-family: 'Merriweather', serif;
+}
+.Duo2{
+margin-bottom:4rem;
+}
+
+.top-container{
+height: 600px;
+margin-top: 50px;
+padding-bottom: 0;
+text-align: center;
+
+}
+.middle-container{
+    text-align: center;
+    padding:3rem;
+    
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    margin-bottom:0px;
+    margin-top:50px;
+    font-family: 'Merriweather', serif;
+    
+}
+footer a:hover{
+    color:#8BBCCC;
+}
+.footer-link{
+    text-decoration: none;
+    color:#F2F2F2;
+   padding:0 35px 0 35px;
+   font-family: 'Merriweather', serif;
+
+}
+
+.tm{
+    margin-bottom:0px;
+    margin-top: 20px;
+    
+}
+#carouselExampleCaptions{
+    width:900px;
+    margin: 50px auto 0 auto;
+    
+}
